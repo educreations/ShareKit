@@ -51,13 +51,7 @@
 	
 	if(!vkWebView)
 	{
-<<<<<<< HEAD
-		UIWebView *aWebView = [[UIWebView alloc] initWithFrame:self.view.bounds];
-        self.vkWebView = aWebView;
-        [aWebView release];
-=======
 		self.vkWebView = [[[UIWebView alloc] initWithFrame:self.view.bounds] autorelease];
->>>>>>> vilemkurz-upstream/master
 		vkWebView.delegate = self;
 		vkWebView.scalesPageToFit = YES;
 		self.vkWebView.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight;
