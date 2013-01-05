@@ -27,6 +27,7 @@
 
 #import "SHKActivityIndicator.h"
 #import <QuartzCore/QuartzCore.h>
+#import <UIKit/UIKit.h>
 
 #define SHKdegreesToRadians(x) (M_PI * x / 180.0)
 
