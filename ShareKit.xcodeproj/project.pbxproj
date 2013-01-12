@@ -116,40 +116,18 @@
 		7ABCDBAC1577528B003BBFFD /* SHKFormFieldCellSwitch.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABCDBA81577528B003BBFFD /* SHKFormFieldCellSwitch.m */; };
 		7ABCDBB3157757D1003BBFFD /* SHKFormFieldCellOptionPicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABCDBAF157757D1003BBFFD /* SHKFormFieldCellOptionPicker.m */; };
 		7AC28F0B165A21C2006D7441 /* libCopy.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBECD2162F0756009D46E4 /* libCopy.a */; };
-		7AC28F0C165A21C2006D7441 /* libDelicious.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED08162F0858009D46E4 /* libDelicious.a */; };
-		7AC28F0D165A21C2006D7441 /* libDiigo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED11162F087F009D46E4 /* libDiigo.a */; };
 		7AC28F0E165A21C2006D7441 /* libEmail.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBECDB162F0779009D46E4 /* libEmail.a */; };
-		7AC28F0F165A21C2006D7441 /* libEvernote SDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A1AFCE2160E127B0086B98A /* libEvernote SDK.a */; };
-		7AC28F10165A21C2006D7441 /* libEvernote.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED24162F08E6009D46E4 /* libEvernote.a */; };
-		7AC28F12165A21C2006D7441 /* libFlickr SDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A1AFD24160E13740086B98A /* libFlickr SDK.a */; };
-		7AC28F13165A21C2006D7441 /* libFlickr.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED50162F0BA7009D46E4 /* libFlickr.a */; };
-		7AC28F14165A21C2006D7441 /* libFoursquareV2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED46162F0B86009D46E4 /* libFoursquareV2.a */; };
-		7AC28F15165A21C2006D7441 /* libGoogle Reader.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED59162F0BC5009D46E4 /* libGoogle Reader.a */; };
-		7AC28F16165A21C2006D7441 /* libInstagram.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A16F3C216134A890019645D /* libInstagram.a */; };
-		7AC28F17165A21C2006D7441 /* libInstapaper.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED62162F0BE8009D46E4 /* libInstapaper.a */; };
 		7AC28F18165A21C2006D7441 /* libJSONKit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A1AFCAE160E11810086B98A /* libJSONKit.a */; };
-		7AC28F19165A21C2006D7441 /* libKippt.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBECFF162F0835009D46E4 /* libKippt.a */; };
-		7AC28F1A165A21C2006D7441 /* libLinkedIn.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED6B162F0C03009D46E4 /* libLinkedIn.a */; };
 		7AC28F1B165A21C2006D7441 /* libLogout.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBECC9162F0719009D46E4 /* libLogout.a */; };
 		7AC28F1C165A21C2006D7441 /* libOAuth.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A16F37E161340DD0019645D /* libOAuth.a */; };
-		7AC28F1D165A21C2006D7441 /* libOpen in Safari.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBECE4162F07B4009D46E4 /* libOpen in Safari.a */; };
-		7AC28F1E165A21C2006D7441 /* libPinboard.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED74162F0C1A009D46E4 /* libPinboard.a */; };
-		7AC28F1F165A21C2006D7441 /* libPrint.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBECBE162F063F009D46E4 /* libPrint.a */; };
-		7AC28F21165A21C2006D7441 /* libRead It Later.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED7D162F0C33009D46E4 /* libRead It Later.a */; };
-		7AC28F22165A21C2006D7441 /* libSave to Album.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBECED162F07DF009D46E4 /* libSave to Album.a */; };
 		7AC28F23165A21C2006D7441 /* libShareKitCore.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A0F9246156BA2A0009CB40A /* libShareKitCore.a */; };
-		7AC28F24165A21C2006D7441 /* libSina Weibo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7AC2A3A016597F4C0089ABE8 /* libSina Weibo.a */; };
 		7AC28F25165A21C2006D7441 /* libSSKeyChain.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A1AFCC0160E11F90086B98A /* libSSKeyChain.a */; };
-		7AC28F26165A21C2006D7441 /* libText Message.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBECF6162F080F009D46E4 /* libText Message.a */; };
-		7AC28F27165A21C2006D7441 /* libTumblr.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED86162F0C4D009D46E4 /* libTumblr.a */; };
 		7AC28F28165A21C2006D7441 /* libTwitter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A1AFD3A160E14340086B98A /* libTwitter.a */; };
-		7AC28F29165A21C2006D7441 /* libVKontakte.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED1B162F08A3009D46E4 /* libVKontakte.a */; };
 		7AC2A3A116597F9C0089ABE8 /* SHKSinaWeibo.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AC2A38D16597CCC0089ABE8 /* SHKSinaWeibo.m */; };
 		7AE8DC7C165B549B004D99D2 /* DummyLibFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AE8DC7A165B549B004D99D2 /* DummyLibFile.h */; };
 		7AE8DC7D165B549B004D99D2 /* DummyLibFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AE8DC7B165B549B004D99D2 /* DummyLibFile.m */; };
 		7AE8DC80165B5730004D99D2 /* libfacebook_ios_sdk.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AA6C09F316122ED90023EE48 /* libfacebook_ios_sdk.a */; };
 		7AF9AAD9165B6C0400F92215 /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = AAF54548160BB0F200A93975 /* libsqlite3.0.dylib */; };
-		A41204B31697AECC007DFEC1 /* libFacebook.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AABBED37162F0B65009D46E4 /* libFacebook.a */; };
 		A41204B41697AF13007DFEC1 /* SHKFacebook.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A536DD11DBE3B9004A1712 /* SHKFacebook.m */; };
 		A41204B51697AF1A007DFEC1 /* SHKiOSFacebook.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A56BFD916591FE000134F04 /* SHKiOSFacebook.m */; };
 		AABBECB8162F063F009D46E4 /* SHKPrint.m in Sources */ = {isa = PBXBuildFile; fileRef = BA465F1E14CC3C5A00B52394 /* SHKPrint.m */; };
@@ -226,13 +204,6 @@
 			remoteGlobalIDString = 7A16F36F161340DD0019645D;
 			remoteInfo = OAuth;
 		};
-		7AC28ED5165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBECB6162F063F009D46E4;
-			remoteInfo = Print;
-		};
 		7AC28ED7165A1EE7006D7441 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
@@ -254,166 +225,12 @@
 			remoteGlobalIDString = AABBECD3162F0779009D46E4;
 			remoteInfo = Email;
 		};
-		7AC28EDD165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBECDC162F07B4009D46E4;
-			remoteInfo = "Open in Safari";
-		};
-		7AC28EDF165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBECE5162F07DF009D46E4;
-			remoteInfo = "Save to Album";
-		};
-		7AC28EE1165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBECEE162F080F009D46E4;
-			remoteInfo = "Text Message";
-		};
-		7AC28EE3165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBECF7162F0835009D46E4;
-			remoteInfo = Kippt;
-		};
-		7AC28EE5165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED00162F0858009D46E4;
-			remoteInfo = Delicious;
-		};
-		7AC28EE7165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7AEE037D160E1B4000FEC06E;
-			remoteInfo = Readability;
-		};
-		7AC28EE9165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED09162F087F009D46E4;
-			remoteInfo = Diigo;
-		};
-		7AC28EEB165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED12162F08A3009D46E4;
-			remoteInfo = VKontakte;
-		};
-		7AC28EED165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED1C162F08E6009D46E4;
-			remoteInfo = Evernote;
-		};
-		7AC28EEF165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7A1AFCD3160E127B0086B98A;
-			remoteInfo = "Evernote SDK";
-		};
-		7AC28EF1165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED25162F0B65009D46E4;
-			remoteInfo = Facebook;
-		};
-		7AC28EF3165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED38162F0B86009D46E4;
-			remoteInfo = FoursquareV2;
-		};
-		7AC28EF5165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED47162F0BA7009D46E4;
-			remoteInfo = Flickr;
-		};
-		7AC28EF7165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7A1AFD15160E13740086B98A;
-			remoteInfo = "Flickr SDK";
-		};
-		7AC28EF9165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED51162F0BC5009D46E4;
-			remoteInfo = "Google Reader";
-		};
-		7AC28EFB165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7A16F3B316134A890019645D;
-			remoteInfo = Instagram;
-		};
-		7AC28EFD165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED5A162F0BE8009D46E4;
-			remoteInfo = Instapaper;
-		};
-		7AC28EFF165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED63162F0C03009D46E4;
-			remoteInfo = LinkedIn;
-		};
-		7AC28F01165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED6C162F0C1A009D46E4;
-			remoteInfo = Pinboard;
-		};
-		7AC28F03165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED75162F0C33009D46E4;
-			remoteInfo = "Read It Later";
-		};
-		7AC28F05165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AABBED7E162F0C4D009D46E4;
-			remoteInfo = Tumbl;
-		};
 		7AC28F07165A1EE7006D7441 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 7A1AFD2B160E14340086B98A;
 			remoteInfo = Twitter;
-		};
-		7AC28F09165A1EE7006D7441 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 7AC2A38E16597F4C0089ABE8;
-			remoteInfo = "Sina Weibo";
 		};
 		7AE8DC7E165B5725004D99D2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -428,13 +245,6 @@
 			proxyType = 2;
 			remoteGlobalIDString = B9CBC519152537270036AA71;
 			remoteInfo = FacebookSDKTests;
-		};
-		A41204721697AA06007DFEC1 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = AA6C09EA16122ED90023EE48 /* facebook-ios-sdk.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = D2AAC07D0554694100DB518D;
-			remoteInfo = "facebook-ios-sdk";
 		};
 		AA6C09F216122ED90023EE48 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -850,36 +660,14 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A41204B31697AECC007DFEC1 /* libFacebook.a in Frameworks */,
 				7AC28F0B165A21C2006D7441 /* libCopy.a in Frameworks */,
-				7AC28F0C165A21C2006D7441 /* libDelicious.a in Frameworks */,
-				7AC28F0D165A21C2006D7441 /* libDiigo.a in Frameworks */,
 				7AC28F0E165A21C2006D7441 /* libEmail.a in Frameworks */,
-				7AC28F0F165A21C2006D7441 /* libEvernote SDK.a in Frameworks */,
-				7AC28F10165A21C2006D7441 /* libEvernote.a in Frameworks */,
-				7AC28F12165A21C2006D7441 /* libFlickr SDK.a in Frameworks */,
-				7AC28F13165A21C2006D7441 /* libFlickr.a in Frameworks */,
-				7AC28F14165A21C2006D7441 /* libFoursquareV2.a in Frameworks */,
-				7AC28F15165A21C2006D7441 /* libGoogle Reader.a in Frameworks */,
-				7AC28F16165A21C2006D7441 /* libInstagram.a in Frameworks */,
-				7AC28F17165A21C2006D7441 /* libInstapaper.a in Frameworks */,
 				7AC28F18165A21C2006D7441 /* libJSONKit.a in Frameworks */,
-				7AC28F19165A21C2006D7441 /* libKippt.a in Frameworks */,
-				7AC28F1A165A21C2006D7441 /* libLinkedIn.a in Frameworks */,
 				7AC28F1B165A21C2006D7441 /* libLogout.a in Frameworks */,
 				7AC28F1C165A21C2006D7441 /* libOAuth.a in Frameworks */,
-				7AC28F1D165A21C2006D7441 /* libOpen in Safari.a in Frameworks */,
-				7AC28F1E165A21C2006D7441 /* libPinboard.a in Frameworks */,
-				7AC28F1F165A21C2006D7441 /* libPrint.a in Frameworks */,
-				7AC28F21165A21C2006D7441 /* libRead It Later.a in Frameworks */,
-				7AC28F22165A21C2006D7441 /* libSave to Album.a in Frameworks */,
 				7AC28F23165A21C2006D7441 /* libShareKitCore.a in Frameworks */,
-				7AC28F24165A21C2006D7441 /* libSina Weibo.a in Frameworks */,
 				7AC28F25165A21C2006D7441 /* libSSKeyChain.a in Frameworks */,
-				7AC28F26165A21C2006D7441 /* libText Message.a in Frameworks */,
-				7AC28F27165A21C2006D7441 /* libTumblr.a in Frameworks */,
 				7AC28F28165A21C2006D7441 /* libTwitter.a in Frameworks */,
-				7AC28F29165A21C2006D7441 /* libVKontakte.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2308,38 +2096,14 @@
 			buildRules = (
 			);
 			dependencies = (
-				A41204731697AA06007DFEC1 /* PBXTargetDependency */,
 				7AC28ECC165A1EE7006D7441 /* PBXTargetDependency */,
 				7AC28ECE165A1EE7006D7441 /* PBXTargetDependency */,
 				7AC28ED0165A1EE7006D7441 /* PBXTargetDependency */,
 				7AC28ED2165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28ED6165A1EE7006D7441 /* PBXTargetDependency */,
 				7AC28ED8165A1EE7006D7441 /* PBXTargetDependency */,
 				7AC28EDA165A1EE7006D7441 /* PBXTargetDependency */,
 				7AC28EDC165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EDE165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EE0165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EE2165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EE4165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EE6165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EE8165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EEA165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EEC165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EEE165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EF0165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EF2165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EF4165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EF6165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EF8165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EFA165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EFC165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28EFE165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28F00165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28F02165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28F04165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28F06165A1EE7006D7441 /* PBXTargetDependency */,
 				7AC28F08165A1EE7006D7441 /* PBXTargetDependency */,
-				7AC28F0A165A1EE7006D7441 /* PBXTargetDependency */,
 			);
 			name = "Static Library";
 			productName = ShareKitLibrary;
@@ -3271,11 +3035,6 @@
 			target = 7A16F36F161340DD0019645D /* OAuth */;
 			targetProxy = 7AC28ED1165A1EE7006D7441 /* PBXContainerItemProxy */;
 		};
-		7AC28ED6165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBECB6162F063F009D46E4 /* Print */;
-			targetProxy = 7AC28ED5165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
 		7AC28ED8165A1EE7006D7441 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = AABBECC1162F0719009D46E4 /* Logout */;
@@ -3291,130 +3050,15 @@
 			target = AABBECD3162F0779009D46E4 /* Email */;
 			targetProxy = 7AC28EDB165A1EE7006D7441 /* PBXContainerItemProxy */;
 		};
-		7AC28EDE165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBECDC162F07B4009D46E4 /* Open in Safari */;
-			targetProxy = 7AC28EDD165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EE0165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBECE5162F07DF009D46E4 /* Save to Album */;
-			targetProxy = 7AC28EDF165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EE2165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBECEE162F080F009D46E4 /* Text Message */;
-			targetProxy = 7AC28EE1165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EE4165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBECF7162F0835009D46E4 /* Kippt */;
-			targetProxy = 7AC28EE3165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EE6165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED00162F0858009D46E4 /* Delicious */;
-			targetProxy = 7AC28EE5165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EE8165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7AEE037D160E1B4000FEC06E /* Readability */;
-			targetProxy = 7AC28EE7165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EEA165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED09162F087F009D46E4 /* Diigo */;
-			targetProxy = 7AC28EE9165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EEC165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED12162F08A3009D46E4 /* VKontakte */;
-			targetProxy = 7AC28EEB165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EEE165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED1C162F08E6009D46E4 /* Evernote */;
-			targetProxy = 7AC28EED165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EF0165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7A1AFCD3160E127B0086B98A /* Evernote SDK */;
-			targetProxy = 7AC28EEF165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EF2165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED25162F0B65009D46E4 /* Facebook */;
-			targetProxy = 7AC28EF1165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EF4165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED38162F0B86009D46E4 /* FoursquareV2 */;
-			targetProxy = 7AC28EF3165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EF6165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED47162F0BA7009D46E4 /* Flickr */;
-			targetProxy = 7AC28EF5165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EF8165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7A1AFD15160E13740086B98A /* Flickr SDK */;
-			targetProxy = 7AC28EF7165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EFA165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED51162F0BC5009D46E4 /* Google Reader */;
-			targetProxy = 7AC28EF9165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EFC165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7A16F3B316134A890019645D /* Instagram */;
-			targetProxy = 7AC28EFB165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28EFE165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED5A162F0BE8009D46E4 /* Instapaper */;
-			targetProxy = 7AC28EFD165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28F00165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED63162F0C03009D46E4 /* LinkedIn */;
-			targetProxy = 7AC28EFF165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28F02165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED6C162F0C1A009D46E4 /* Pinboard */;
-			targetProxy = 7AC28F01165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28F04165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED75162F0C33009D46E4 /* Read It Later */;
-			targetProxy = 7AC28F03165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
-		7AC28F06165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AABBED7E162F0C4D009D46E4 /* Tumbl */;
-			targetProxy = 7AC28F05165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
 		7AC28F08165A1EE7006D7441 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 7A1AFD2B160E14340086B98A /* Twitter */;
 			targetProxy = 7AC28F07165A1EE7006D7441 /* PBXContainerItemProxy */;
 		};
-		7AC28F0A165A1EE7006D7441 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 7AC2A38E16597F4C0089ABE8 /* Sina Weibo */;
-			targetProxy = 7AC28F09165A1EE7006D7441 /* PBXContainerItemProxy */;
-		};
 		7AE8DC7F165B5725004D99D2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "facebook-ios-sdk";
 			targetProxy = 7AE8DC7E165B5725004D99D2 /* PBXContainerItemProxy */;
-		};
-		A41204731697AA06007DFEC1 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "facebook-ios-sdk";
-			targetProxy = A41204721697AA06007DFEC1 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
